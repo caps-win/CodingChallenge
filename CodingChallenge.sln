@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenges", "Challenges", "{8CB2272F-4A8D-422D-BA47-3956AB519C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power.Of.Thor.Episode.1", "Challenges\Power.Of.Thor.Episode.1\Power.Of.Thor.Episode.1.csproj", "{45A0E1BD-95EF-4687-B092-F56DCC7E3034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A0E1BD-95EF-4687-B092-F56DCC7E3034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A0E1BD-95EF-4687-B092-F56DCC7E3034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A0E1BD-95EF-4687-B092-F56DCC7E3034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A0E1BD-95EF-4687-B092-F56DCC7E3034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{45A0E1BD-95EF-4687-B092-F56DCC7E3034} = {8CB2272F-4A8D-422D-BA47-3956AB519C57}
+	EndGlobalSection
+EndGlobal
