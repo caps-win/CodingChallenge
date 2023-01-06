@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenges", "Challenges", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power.Of.Thor.Episode.1", "Challenges\Power.Of.Thor.Episode.1\Power.Of.Thor.Episode.1.csproj", "{45A0E1BD-95EF-4687-B092-F56DCC7E3034}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Horse.Racing.Duals", "Challenges\Horse.Racing.Duals\Horse.Racing.Duals.csproj", "{8509B292-CD5E-453A-A56C-21F8EB7127FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +22,13 @@ Global
 		{45A0E1BD-95EF-4687-B092-F56DCC7E3034}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45A0E1BD-95EF-4687-B092-F56DCC7E3034}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45A0E1BD-95EF-4687-B092-F56DCC7E3034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8509B292-CD5E-453A-A56C-21F8EB7127FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8509B292-CD5E-453A-A56C-21F8EB7127FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8509B292-CD5E-453A-A56C-21F8EB7127FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8509B292-CD5E-453A-A56C-21F8EB7127FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{45A0E1BD-95EF-4687-B092-F56DCC7E3034} = {8CB2272F-4A8D-422D-BA47-3956AB519C57}
+		{8509B292-CD5E-453A-A56C-21F8EB7127FC} = {8CB2272F-4A8D-422D-BA47-3956AB519C57}
 	EndGlobalSection
 EndGlobal
