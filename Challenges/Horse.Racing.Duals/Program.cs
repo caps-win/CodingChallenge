@@ -1,4 +1,4 @@
-﻿namespace Power.Of.Thor.Episode._1
+﻿namespace Horse.Racing.Duals
 {
   internal static class Program
   {
